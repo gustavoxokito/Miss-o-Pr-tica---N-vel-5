@@ -36,9 +36,3 @@
 -  1º npm install
 -  2º ng serve
 
-## Credits
-- Aluno:Gustavo igor da Silva.
-- Tutor(a) Andre Przewodowski Filho.
-
-## License
-The MIT License (MIT).
