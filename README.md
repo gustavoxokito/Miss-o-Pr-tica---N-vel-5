@@ -37,7 +37,7 @@
 -  2º ng serve
 
 ## Credits
-- Aluno: Gilvan Junior N. Gonçalves.
+- Aluno:Gustavo igor da Silva.
 - Tutor(a) Andre Przewodowski Filho.
 
 ## License
